@@ -1,1 +1,1 @@
-Minipro ject 
+Mini project 
